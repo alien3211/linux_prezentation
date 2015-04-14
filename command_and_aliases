@@ -1,0 +1,1 @@
+whatis "`\ls /bin |shuf -n 1`" | sed "s/\(.* (.*)\)\(.*\)/\n\x1b[1;92m\1\x1b[0m\2/" # comenda do nauki nowych polecen
